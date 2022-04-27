@@ -1,0 +1,15 @@
+/home/gento/VSCode/c#-udemy/idades/bin/Debug/net6.0/idades
+/home/gento/VSCode/c#-udemy/idades/bin/Debug/net6.0/idades.deps.json
+/home/gento/VSCode/c#-udemy/idades/bin/Debug/net6.0/idades.runtimeconfig.json
+/home/gento/VSCode/c#-udemy/idades/bin/Debug/net6.0/idades.dll
+/home/gento/VSCode/c#-udemy/idades/bin/Debug/net6.0/idades.pdb
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.csproj.AssemblyReference.cache
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.GeneratedMSBuildEditorConfig.editorconfig
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.AssemblyInfoInputs.cache
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.AssemblyInfo.cs
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.csproj.CoreCompileInputs.cache
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.dll
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/refint/idades.dll
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.pdb
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/idades.genruntimeconfig.cache
+/home/gento/VSCode/c#-udemy/idades/obj/Debug/net6.0/ref/idades.dll

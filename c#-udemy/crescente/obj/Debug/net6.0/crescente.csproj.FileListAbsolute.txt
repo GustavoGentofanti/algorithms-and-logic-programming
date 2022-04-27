@@ -1,0 +1,15 @@
+/home/gento/VSCode/c#-udemy/crescente/bin/Debug/net6.0/crescente
+/home/gento/VSCode/c#-udemy/crescente/bin/Debug/net6.0/crescente.deps.json
+/home/gento/VSCode/c#-udemy/crescente/bin/Debug/net6.0/crescente.runtimeconfig.json
+/home/gento/VSCode/c#-udemy/crescente/bin/Debug/net6.0/crescente.dll
+/home/gento/VSCode/c#-udemy/crescente/bin/Debug/net6.0/crescente.pdb
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.csproj.AssemblyReference.cache
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.GeneratedMSBuildEditorConfig.editorconfig
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.AssemblyInfoInputs.cache
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.AssemblyInfo.cs
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.csproj.CoreCompileInputs.cache
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.dll
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/refint/crescente.dll
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.pdb
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/crescente.genruntimeconfig.cache
+/home/gento/VSCode/c#-udemy/crescente/obj/Debug/net6.0/ref/crescente.dll

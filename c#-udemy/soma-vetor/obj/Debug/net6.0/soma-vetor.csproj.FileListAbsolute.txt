@@ -1,0 +1,15 @@
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.csproj.AssemblyReference.cache
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.GeneratedMSBuildEditorConfig.editorconfig
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.AssemblyInfoInputs.cache
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.AssemblyInfo.cs
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.csproj.CoreCompileInputs.cache
+/home/gento/VSCode/c#-udemy/soma-vetor/bin/Debug/net6.0/soma-vetor
+/home/gento/VSCode/c#-udemy/soma-vetor/bin/Debug/net6.0/soma-vetor.deps.json
+/home/gento/VSCode/c#-udemy/soma-vetor/bin/Debug/net6.0/soma-vetor.runtimeconfig.json
+/home/gento/VSCode/c#-udemy/soma-vetor/bin/Debug/net6.0/soma-vetor.dll
+/home/gento/VSCode/c#-udemy/soma-vetor/bin/Debug/net6.0/soma-vetor.pdb
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.dll
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/refint/soma-vetor.dll
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.pdb
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/soma-vetor.genruntimeconfig.cache
+/home/gento/VSCode/c#-udemy/soma-vetor/obj/Debug/net6.0/ref/soma-vetor.dll

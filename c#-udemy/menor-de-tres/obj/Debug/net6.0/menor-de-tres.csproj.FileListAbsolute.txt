@@ -1,0 +1,15 @@
+/home/gento/VSCode/c#-udemy/menor-de-tres/bin/Debug/net6.0/menor-de-tres
+/home/gento/VSCode/c#-udemy/menor-de-tres/bin/Debug/net6.0/menor-de-tres.deps.json
+/home/gento/VSCode/c#-udemy/menor-de-tres/bin/Debug/net6.0/menor-de-tres.runtimeconfig.json
+/home/gento/VSCode/c#-udemy/menor-de-tres/bin/Debug/net6.0/menor-de-tres.dll
+/home/gento/VSCode/c#-udemy/menor-de-tres/bin/Debug/net6.0/menor-de-tres.pdb
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.csproj.AssemblyReference.cache
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.GeneratedMSBuildEditorConfig.editorconfig
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.AssemblyInfoInputs.cache
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.AssemblyInfo.cs
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.csproj.CoreCompileInputs.cache
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.dll
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/refint/menor-de-tres.dll
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.pdb
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/menor-de-tres.genruntimeconfig.cache
+/home/gento/VSCode/c#-udemy/menor-de-tres/obj/Debug/net6.0/ref/menor-de-tres.dll

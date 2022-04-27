@@ -1,0 +1,15 @@
+/home/gento/VSCode/c#-udemy/soma-impares/bin/Debug/net6.0/soma-impares
+/home/gento/VSCode/c#-udemy/soma-impares/bin/Debug/net6.0/soma-impares.deps.json
+/home/gento/VSCode/c#-udemy/soma-impares/bin/Debug/net6.0/soma-impares.runtimeconfig.json
+/home/gento/VSCode/c#-udemy/soma-impares/bin/Debug/net6.0/soma-impares.dll
+/home/gento/VSCode/c#-udemy/soma-impares/bin/Debug/net6.0/soma-impares.pdb
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.csproj.AssemblyReference.cache
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.GeneratedMSBuildEditorConfig.editorconfig
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.AssemblyInfoInputs.cache
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.AssemblyInfo.cs
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.csproj.CoreCompileInputs.cache
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.dll
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/refint/soma-impares.dll
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.pdb
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/soma-impares.genruntimeconfig.cache
+/home/gento/VSCode/c#-udemy/soma-impares/obj/Debug/net6.0/ref/soma-impares.dll

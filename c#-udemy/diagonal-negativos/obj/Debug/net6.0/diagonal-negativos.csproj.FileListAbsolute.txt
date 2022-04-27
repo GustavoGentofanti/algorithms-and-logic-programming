@@ -1,0 +1,15 @@
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.csproj.AssemblyReference.cache
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.GeneratedMSBuildEditorConfig.editorconfig
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.AssemblyInfoInputs.cache
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.AssemblyInfo.cs
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.csproj.CoreCompileInputs.cache
+/home/gento/VSCode/c#-udemy/diagonal-negativos/bin/Debug/net6.0/diagonal-negativos
+/home/gento/VSCode/c#-udemy/diagonal-negativos/bin/Debug/net6.0/diagonal-negativos.deps.json
+/home/gento/VSCode/c#-udemy/diagonal-negativos/bin/Debug/net6.0/diagonal-negativos.runtimeconfig.json
+/home/gento/VSCode/c#-udemy/diagonal-negativos/bin/Debug/net6.0/diagonal-negativos.dll
+/home/gento/VSCode/c#-udemy/diagonal-negativos/bin/Debug/net6.0/diagonal-negativos.pdb
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.dll
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/refint/diagonal-negativos.dll
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.pdb
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/diagonal-negativos.genruntimeconfig.cache
+/home/gento/VSCode/c#-udemy/diagonal-negativos/obj/Debug/net6.0/ref/diagonal-negativos.dll
